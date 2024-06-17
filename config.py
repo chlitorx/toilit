@@ -4,8 +4,8 @@ from telebot.util                  import ThreadPool
 ###########################################
 
 
-TelegramToken = 'читай_readme'
-TelegramChatID = 'читай_readme'
+TelegramToken = '7495907284:AAEP0DgS04D974zdhVWx76WLQN-_wcn_QYQ'
+TelegramChatID = '7059655040'
 
 
 AdminRightsRequired = False 
